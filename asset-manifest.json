@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AudioHive/static/css/main.39a538c7.chunk.css",
-    "main.js": "/AudioHive/static/js/main.fa0446da.chunk.js",
-    "main.js.map": "/AudioHive/static/js/main.fa0446da.chunk.js.map",
+    "main.css": "/AudioHive/static/css/main.95f143e1.chunk.css",
+    "main.js": "/AudioHive/static/js/main.37e29527.chunk.js",
+    "main.js.map": "/AudioHive/static/js/main.37e29527.chunk.js.map",
     "runtime-main.js": "/AudioHive/static/js/runtime-main.dc2aa819.js",
     "runtime-main.js.map": "/AudioHive/static/js/runtime-main.dc2aa819.js.map",
     "static/js/2.29f6cfa9.chunk.js": "/AudioHive/static/js/2.29f6cfa9.chunk.js",
     "static/js/2.29f6cfa9.chunk.js.map": "/AudioHive/static/js/2.29f6cfa9.chunk.js.map",
     "index.html": "/AudioHive/index.html",
-    "precache-manifest.bb8e0b39849dc3e5ca28289a7927c648.js": "/AudioHive/precache-manifest.bb8e0b39849dc3e5ca28289a7927c648.js",
+    "precache-manifest.89bd8cf388bb43c63072da60d698f7fa.js": "/AudioHive/precache-manifest.89bd8cf388bb43c63072da60d698f7fa.js",
     "service-worker.js": "/AudioHive/service-worker.js",
-    "static/css/main.39a538c7.chunk.css.map": "/AudioHive/static/css/main.39a538c7.chunk.css.map",
+    "static/css/main.95f143e1.chunk.css.map": "/AudioHive/static/css/main.95f143e1.chunk.css.map",
     "static/js/2.29f6cfa9.chunk.js.LICENSE.txt": "/AudioHive/static/js/2.29f6cfa9.chunk.js.LICENSE.txt",
     "static/media/audiohiveLogo.png": "/AudioHive/static/media/audiohiveLogo.096ca130.png",
     "static/media/audiohiveName.png": "/AudioHive/static/media/audiohiveName.22c53447.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.dc2aa819.js",
     "static/js/2.29f6cfa9.chunk.js",
-    "static/css/main.39a538c7.chunk.css",
-    "static/js/main.fa0446da.chunk.js"
+    "static/css/main.95f143e1.chunk.css",
+    "static/js/main.37e29527.chunk.js"
   ]
 }
