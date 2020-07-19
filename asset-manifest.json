@@ -1,25 +1,35 @@
 {
   "files": {
-    "main.css": "/AudioHive/static/css/main.786b833d.chunk.css",
-    "main.js": "/AudioHive/static/js/main.3d67c9bd.chunk.js",
-    "main.js.map": "/AudioHive/static/js/main.3d67c9bd.chunk.js.map",
+    "main.css": "/AudioHive/static/css/main.74d13952.chunk.css",
+    "main.js": "/AudioHive/static/js/main.6be8b9d8.chunk.js",
+    "main.js.map": "/AudioHive/static/js/main.6be8b9d8.chunk.js.map",
     "runtime-main.js": "/AudioHive/static/js/runtime-main.dc2aa819.js",
     "runtime-main.js.map": "/AudioHive/static/js/runtime-main.dc2aa819.js.map",
-    "static/js/2.29f6cfa9.chunk.js": "/AudioHive/static/js/2.29f6cfa9.chunk.js",
-    "static/js/2.29f6cfa9.chunk.js.map": "/AudioHive/static/js/2.29f6cfa9.chunk.js.map",
+    "static/js/2.14f6a8c9.chunk.js": "/AudioHive/static/js/2.14f6a8c9.chunk.js",
+    "static/js/2.14f6a8c9.chunk.js.map": "/AudioHive/static/js/2.14f6a8c9.chunk.js.map",
     "index.html": "/AudioHive/index.html",
-    "precache-manifest.2f837e96394894f4660573290a134566.js": "/AudioHive/precache-manifest.2f837e96394894f4660573290a134566.js",
+    "precache-manifest.89dfd3243fe15dfd59bd5356e3b18f08.js": "/AudioHive/precache-manifest.89dfd3243fe15dfd59bd5356e3b18f08.js",
     "service-worker.js": "/AudioHive/service-worker.js",
-    "static/css/main.786b833d.chunk.css.map": "/AudioHive/static/css/main.786b833d.chunk.css.map",
-    "static/js/2.29f6cfa9.chunk.js.LICENSE.txt": "/AudioHive/static/js/2.29f6cfa9.chunk.js.LICENSE.txt",
+    "static/css/main.74d13952.chunk.css.map": "/AudioHive/static/css/main.74d13952.chunk.css.map",
+    "static/js/2.14f6a8c9.chunk.js.LICENSE.txt": "/AudioHive/static/js/2.14f6a8c9.chunk.js.LICENSE.txt",
     "static/media/audiohiveLogo.png": "/AudioHive/static/media/audiohiveLogo.096ca130.png",
     "static/media/audiohiveName.png": "/AudioHive/static/media/audiohiveName.22c53447.png",
-    "static/media/Head.css": "/AudioHive/static/media/bees.fc7cce1f.png"
+    "static/media/Head.css": "/AudioHive/static/media/bees.fc7cce1f.png",
+    "static/media/caoImg.png": "/AudioHive/static/media/caoImg.a0b46d84.png",
+    "static/media/cdoImg.png": "/AudioHive/static/media/cdoImg.831fe68c.png",
+    "static/media/ceoImg.png": "/AudioHive/static/media/ceoImg.1a7e2c30.png",
+    "static/media/cioImg.png": "/AudioHive/static/media/cioImg.303c50b1.png",
+    "static/media/cvoImg.png": "/AudioHive/static/media/cvoImg.4c294052.png",
+    "static/media/hrImg.png": "/AudioHive/static/media/hrImg.a7c2d153.png",
+    "static/media/internImg.png": "/AudioHive/static/media/internImg.0e2092a9.png",
+    "static/media/mmImg.png": "/AudioHive/static/media/mmImg.99d8a3ae.png",
+    "static/media/workImg1.png": "/AudioHive/static/media/workImg1.66922522.png",
+    "static/media/workImg2.png": "/AudioHive/static/media/workImg2.2eb856f1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dc2aa819.js",
-    "static/js/2.29f6cfa9.chunk.js",
-    "static/css/main.786b833d.chunk.css",
-    "static/js/main.3d67c9bd.chunk.js"
+    "static/js/2.14f6a8c9.chunk.js",
+    "static/css/main.74d13952.chunk.css",
+    "static/js/main.6be8b9d8.chunk.js"
   ]
 }
