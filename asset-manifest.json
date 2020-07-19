@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/AudioHive/static/css/main.95f143e1.chunk.css",
-    "main.js": "/AudioHive/static/js/main.37e29527.chunk.js",
-    "main.js.map": "/AudioHive/static/js/main.37e29527.chunk.js.map",
+    "main.js": "/AudioHive/static/js/main.a3d19dd2.chunk.js",
+    "main.js.map": "/AudioHive/static/js/main.a3d19dd2.chunk.js.map",
     "runtime-main.js": "/AudioHive/static/js/runtime-main.dc2aa819.js",
     "runtime-main.js.map": "/AudioHive/static/js/runtime-main.dc2aa819.js.map",
     "static/js/2.29f6cfa9.chunk.js": "/AudioHive/static/js/2.29f6cfa9.chunk.js",
     "static/js/2.29f6cfa9.chunk.js.map": "/AudioHive/static/js/2.29f6cfa9.chunk.js.map",
     "index.html": "/AudioHive/index.html",
-    "precache-manifest.89bd8cf388bb43c63072da60d698f7fa.js": "/AudioHive/precache-manifest.89bd8cf388bb43c63072da60d698f7fa.js",
+    "precache-manifest.39c67f7995a2145b9f9340fc83b5f281.js": "/AudioHive/precache-manifest.39c67f7995a2145b9f9340fc83b5f281.js",
     "service-worker.js": "/AudioHive/service-worker.js",
     "static/css/main.95f143e1.chunk.css.map": "/AudioHive/static/css/main.95f143e1.chunk.css.map",
     "static/js/2.29f6cfa9.chunk.js.LICENSE.txt": "/AudioHive/static/js/2.29f6cfa9.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.dc2aa819.js",
     "static/js/2.29f6cfa9.chunk.js",
     "static/css/main.95f143e1.chunk.css",
-    "static/js/main.37e29527.chunk.js"
+    "static/js/main.a3d19dd2.chunk.js"
   ]
 }
