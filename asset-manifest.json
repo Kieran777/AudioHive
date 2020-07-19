@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/philip917.github.io/AudioHive/static/css/main.0b5ad7d5.chunk.css",
+    "main.js": "/philip917.github.io/AudioHive/static/js/main.fce530a6.chunk.js",
+    "main.js.map": "/philip917.github.io/AudioHive/static/js/main.fce530a6.chunk.js.map",
+    "runtime-main.js": "/philip917.github.io/AudioHive/static/js/runtime-main.fa546d1b.js",
+    "runtime-main.js.map": "/philip917.github.io/AudioHive/static/js/runtime-main.fa546d1b.js.map",
+    "static/js/2.29f6cfa9.chunk.js": "/philip917.github.io/AudioHive/static/js/2.29f6cfa9.chunk.js",
+    "static/js/2.29f6cfa9.chunk.js.map": "/philip917.github.io/AudioHive/static/js/2.29f6cfa9.chunk.js.map",
+    "index.html": "/philip917.github.io/AudioHive/index.html",
+    "precache-manifest.273fadc9b1d3fab83055175e18ca7529.js": "/philip917.github.io/AudioHive/precache-manifest.273fadc9b1d3fab83055175e18ca7529.js",
+    "service-worker.js": "/philip917.github.io/AudioHive/service-worker.js",
+    "static/css/main.0b5ad7d5.chunk.css.map": "/philip917.github.io/AudioHive/static/css/main.0b5ad7d5.chunk.css.map",
+    "static/js/2.29f6cfa9.chunk.js.LICENSE.txt": "/philip917.github.io/AudioHive/static/js/2.29f6cfa9.chunk.js.LICENSE.txt",
+    "static/media/audiohiveLogo.png": "/philip917.github.io/AudioHive/static/media/audiohiveLogo.096ca130.png",
+    "static/media/audiohiveName.png": "/philip917.github.io/AudioHive/static/media/audiohiveName.22c53447.png",
+    "static/media/Head.css": "/philip917.github.io/AudioHive/static/media/bees.fc7cce1f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa546d1b.js",
+    "static/js/2.29f6cfa9.chunk.js",
+    "static/css/main.0b5ad7d5.chunk.css",
+    "static/js/main.fce530a6.chunk.js"
+  ]
+}
