@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "751f09b57d163438b55323208c8f8af4",
+    "revision": "311b492a3c43c9f1578862e70d73a874",
     "url": "/AudioHive/index.html"
   },
   {
-    "revision": "07e86680e21b227bfdac",
-    "url": "/AudioHive/static/css/main.3e4c3580.chunk.css"
+    "revision": "8143bac299ad4a3b0a10",
+    "url": "/AudioHive/static/css/main.39a538c7.chunk.css"
   },
   {
     "revision": "637a8cd45b0913dbf97f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AudioHive/static/js/2.29f6cfa9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07e86680e21b227bfdac",
+    "revision": "8143bac299ad4a3b0a10",
     "url": "/AudioHive/static/js/main.fa0446da.chunk.js"
   },
   {
