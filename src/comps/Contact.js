@@ -1,7 +1,7 @@
 import React from 'react';
 import './Contact.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faInstagram, faTwitter } from '@fortawesome/fontawesome-free-brands';
+import { faInstagram, faTwitter, faFacebook } from '@fortawesome/fontawesome-free-brands';
 
 function Contact(){
     
@@ -19,8 +19,13 @@ function Contact(){
                 <br></br>
                 <br></br>
                 <FontAwesomeIcon className="contactSymbols" icon={faInstagram}/>
-                <h3>Or Dm us on instagram: </h3>
+                <h3>Dm us on instagram: </h3>
                 <a href="https://www.instagram.com/audiohivepro/">audiohivepro</a>
+                <br></br>
+                <br></br>
+                <FontAwesomeIcon className="contactSymbols" icon={faFacebook}/>
+                <h3>Or Like and Comment on our Facebook page: </h3>
+                <a href="https://m.facebook.com/AudioHivepro-105121191285300/?tsid=0.428467265954215&source=result">AudioHivePro</a>
             </div>
         )
     
