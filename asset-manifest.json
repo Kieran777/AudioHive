@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/AudioHive/static/css/main.74d13952.chunk.css",
-    "main.js": "/AudioHive/static/js/main.3eb1db51.chunk.js",
-    "main.js.map": "/AudioHive/static/js/main.3eb1db51.chunk.js.map",
+    "main.css": "/AudioHive/static/css/main.def1acfa.chunk.css",
+    "main.js": "/AudioHive/static/js/main.46fb08c9.chunk.js",
+    "main.js.map": "/AudioHive/static/js/main.46fb08c9.chunk.js.map",
     "runtime-main.js": "/AudioHive/static/js/runtime-main.dc2aa819.js",
     "runtime-main.js.map": "/AudioHive/static/js/runtime-main.dc2aa819.js.map",
-    "static/js/2.df3c7247.chunk.js": "/AudioHive/static/js/2.df3c7247.chunk.js",
-    "static/js/2.df3c7247.chunk.js.map": "/AudioHive/static/js/2.df3c7247.chunk.js.map",
+    "static/js/2.cf15f17d.chunk.js": "/AudioHive/static/js/2.cf15f17d.chunk.js",
+    "static/js/2.cf15f17d.chunk.js.map": "/AudioHive/static/js/2.cf15f17d.chunk.js.map",
     "index.html": "/AudioHive/index.html",
-    "precache-manifest.c8a47b822b7e19892f01d4f07d1dfa9b.js": "/AudioHive/precache-manifest.c8a47b822b7e19892f01d4f07d1dfa9b.js",
+    "precache-manifest.90e091fb57f9e473dba01904f4264311.js": "/AudioHive/precache-manifest.90e091fb57f9e473dba01904f4264311.js",
     "service-worker.js": "/AudioHive/service-worker.js",
-    "static/css/main.74d13952.chunk.css.map": "/AudioHive/static/css/main.74d13952.chunk.css.map",
-    "static/js/2.df3c7247.chunk.js.LICENSE.txt": "/AudioHive/static/js/2.df3c7247.chunk.js.LICENSE.txt",
+    "static/css/main.def1acfa.chunk.css.map": "/AudioHive/static/css/main.def1acfa.chunk.css.map",
+    "static/js/2.cf15f17d.chunk.js.LICENSE.txt": "/AudioHive/static/js/2.cf15f17d.chunk.js.LICENSE.txt",
+    "static/media/Poster.jpg": "/AudioHive/static/media/Poster.1d4b9cba.jpg",
+    "static/media/PromoVid.mp4": "/AudioHive/static/media/PromoVid.5d454832.mp4",
     "static/media/audiohiveLogo.png": "/AudioHive/static/media/audiohiveLogo.096ca130.png",
     "static/media/audiohiveName.png": "/AudioHive/static/media/audiohiveName.22c53447.png",
     "static/media/Head.css": "/AudioHive/static/media/bees.fc7cce1f.png",
@@ -28,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.dc2aa819.js",
-    "static/js/2.df3c7247.chunk.js",
-    "static/css/main.74d13952.chunk.css",
-    "static/js/main.3eb1db51.chunk.js"
+    "static/js/2.cf15f17d.chunk.js",
+    "static/css/main.def1acfa.chunk.css",
+    "static/js/main.46fb08c9.chunk.js"
   ]
 }
