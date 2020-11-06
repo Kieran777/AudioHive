@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faAngleRight, faAngleLeft, faHome, faQuestion, faBriefcase, faNewspaper, faAddressBook  } from '@fortawesome/free-solid-svg-icons';
+import { faAngleRight, faAngleLeft, faHome, faQuestion, faBriefcase, faNewspaper, faAddressBook, faExclamation  } from '@fortawesome/free-solid-svg-icons';
 import Head from './comps/Head';
 
 
@@ -10,6 +10,7 @@ import FAQ from './comps/FAQ';
 import Contact from './comps/Contact';
 import Articles from './comps/Articles';
 import Products from './comps/Products';
+import Events from './comps/Events';
 
  
 const symbolHighlight = {
@@ -32,14 +33,14 @@ class App extends Component {
   }
 
   handleHighlight(x){
-    var highlightArr = [symbolNormal, symbolNormal, symbolNormal, symbolNormal, symbolNormal];
+    var highlightArr = [symbolNormal, symbolNormal, symbolNormal, symbolNormal, symbolNormal, symbolNormal];
     highlightArr[this.state.currPage] = symbolHighlight;
 
     return highlightArr[x];
   }
   goRight(){
     var x = 0;
-    if(this.state.currPage<4){
+    if(this.state.currPage<5){
       x= this.state.currPage;
       x++;
     }
@@ -48,7 +49,7 @@ class App extends Component {
     })
   }
   goLeft(){
-    var x = 4;
+    var x = 5;
     if(this.state.currPage>0){
       x= this.state.currPage;
       x--;
@@ -63,7 +64,7 @@ class App extends Component {
     })
   }
  pageController(){
-   var pageArr = [Products(), Articles(), Home(), FAQ(), Contact()];
+   var pageArr = [Products(), Articles(), Home(), FAQ(), Contact(), Events()];
    return pageArr[this.state.currPage];
 
  }
@@ -79,6 +80,7 @@ class App extends Component {
       <FontAwesomeIcon className="pageBut" id="homeBut" icon={faHome} style={this.handleHighlight(2)} onClick={()=>{this.goSymbol(2)}}/>
       <FontAwesomeIcon className="pageBut" id="aboutBut" icon={faQuestion} style={this.handleHighlight(3)} onClick={()=>{this.goSymbol(3)}}/>
       <FontAwesomeIcon className="pageBut" id="contactBut" icon={faAddressBook} style={this.handleHighlight(4)} onClick={()=>{this.goSymbol(4)}}/>
+      <FontAwesomeIcon className="pageBut" id="exclamBut" icon={faExclamation} style={this.handleHighlight(5)} onClick={()=>{this.goSymbol(5)}}/>
       <FontAwesomeIcon id="rightBut" icon={faAngleRight} onClick={this.goRight}/>
       <FontAwesomeIcon id="leftBut" icon={faAngleLeft} onClick={this.goLeft}/>
 

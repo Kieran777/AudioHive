@@ -36,17 +36,20 @@ body{
 left: 17%;
 }
 #articlesBut{
-left:33%
+left:29.8%
 }
 #homeBut{
-left:49%;
+left:42.6%;
 color:#e88c00;
 }
 #aboutBut{
-left:65%;
+left:55.4%;
 }
 #contactBut{
-left:81%;
+left:68.2%;
+}
+#exclamBut{
+  left:81%;
 }
 #mainInsert{
   position: absolute;
